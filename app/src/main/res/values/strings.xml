@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_capture_or_choice_an_image_from_gallery_to_perform_ocr">Hello! capture or choice an image from gallery to perform OCR</string>
+    <string name="capture">Capture</string>
+    <string name="copy">Copy</string>
+    <string name="Copy_Text" />
+</resources>
